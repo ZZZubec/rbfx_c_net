@@ -32,8 +32,10 @@ Rbfx это ветка Urho3D ныне находящегося в архиве,
 ## Примеры кода которые уже созданы (хоть здесь их соберу)
 ### c#
 https://github.com/rbfx/sample-project
+
 ### c++
 https://github.com/gleblebedev/Urho3DNet.Samples/tree/main/src/Urho3DNet.Samples
+
 официальные https://github.com/rbfx/rbfx/tree/master/Source/Samples
 > посмтаривайте в них тоже, потому что много общего
 
